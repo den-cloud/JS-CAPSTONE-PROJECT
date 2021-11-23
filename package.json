@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
+    "server": "node server.js",
     "build": "webpack"
   },
   "repository": {
@@ -21,10 +22,12 @@
   "homepage": "https://github.com/den-cloud/JS-CAPSTONE-PROJECT#readme",
   "devDependencies": {
     "css-loader": "^6.5.1",
+    "express": "^4.17.1",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.64.2",
     "webpack-cli": "^4.9.1",
+    "webpack-dev-middleware": "^5.2.2",
     "webpack-dev-server": "^4.5.0"
   },
   "dependencies": {
