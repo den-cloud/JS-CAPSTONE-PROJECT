@@ -51,12 +51,6 @@ header {
   width: 100%;
 }
 
-/* .row:after {
-  content: "";
-  display: table;
-  clear: both;
-} */
-
 .close-btn {
   background-color: rgb(220, 50, 20);
   color: #fff;
