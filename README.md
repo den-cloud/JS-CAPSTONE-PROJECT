@@ -23,10 +23,6 @@
 
 This project is found on the following Repo [Fantastic Restaurant](https://github.com/den-cloud/JS-CAPSTONE-PROJECT/)
 
-## Live Demo
-
-You can view the live demo of the project [Here!](http://localhost:8080/)
-
 ###  Presentation Video
 
 You can view the  Presentation Video of the project [Here!](https://www.loom.com/share/65081ec914e44b638ae93fbd02230995)
